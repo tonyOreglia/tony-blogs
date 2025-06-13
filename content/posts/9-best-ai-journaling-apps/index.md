@@ -1,8 +1,11 @@
-+++
-date = '2023-09-01T18:02:08+01:00'
-draft = false
-title = '9 Best AI Journaling Apps in 2023'
-+++
+---
+date: '2023-09-01T18:02:08+01:00'
+draft: false
+title: '9 Best AI Journaling Apps in 2023'
+tags:
+- journaling
+- SAAS
+---
 
 ## Top Journaling Apps with AI Integrations
 
