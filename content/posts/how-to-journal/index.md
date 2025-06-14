@@ -1,18 +1,24 @@
 ---
-title: "How to Journal"
-date: "2025-06-13"
+title: "How to Journal: Practical vs Introspective Journaling"
+date: "2023-04-14"
 draft: false
 original_url: https://tonyoreglia.substack.com/p/how-to-journal
 tags:
-- substack
-- imported
+- journaling
+- daily introspective journaling
 ---
 
 ![](https___substack-post-media.s3.amazonaws.com_public_images_3c2e1421-86a8-4393-b332-3f47c540c7b3_1400x2100.jpeg)
 
-# **Introspective Journaling**
+After talking to hundreds of people about journaling I began to realise there are two broad categories. Most people think of journaling in terms of one or the other.
+
+# Introspective Journaling
+
+The first category is introspective journaling which is inward focused. It is generally retrospective. It is characterised by flow — that is, writing continuously without a filter. Just getting the naturally occurring thoughts onto the page. The purpose is to increase clarity by untangling thought and emotions. This approach is fundamentally meditative in that it externalises mental activity.
 
 One great example of introspective journaling is the Daily Morning Pages as described in the book, “The Artist’s Way”.
+
+If you want to try this method:
 
   1. Set a goal for how much to write, 2 pages or 500 words are good targets.
 
@@ -22,20 +28,22 @@ One great example of introspective journaling is the Daily Morning Pages as desc
 
   4. Do not filter, feel free to throw it out after if that helps.
 
-
-
+# Practical Journaling
 
 The second category is more practical. Goal oriented journaling is a form of note taking. This is when journaling is used as a tool. It tends to be forward looking. Typically the journaling has some external goal or purpose. It’s fundamentally about self improvement.
 
+This type of journaling can be a simple checklist, brainstorming for a new project, or planning the goals for a new year. It’s characteristic is that there is a specific topic that you want to progress on.
+
 Some examples goal oriented are bullet journaling, Benjamin Franklins Daily Virtues journal, and Ray Dalio’s Principles journal.
+
+# Jumble Journal
 
 ![](https___substack-post-media.s3.amazonaws.com_public_images_8e9141b6-0c55-40dc-80f6-3d4da6bb0939_862x378.png)
 
-  * [Join Medium](https://tony-oreglia.medium.com/membership)
-
-  * [Follow Me](https://tony-oreglia.medium.com/) or S[ubscribe to my newsletter](https://tony-oreglia.medium.com/subscribe)
+Jumble was built for the purpose of introspective journaling. It is meant to be a calm space to just write your thoughts without concern. Jumble helps you to explore those thoughts with the latest tools in AI. We protect your journal with client side encryption which means you have full ownership of your data. See our security [white paper here](https://docs.google.com/document/d/1T0SEj5WrymfyzNDD8rNGKQ2OpF6xoPGrYahppGd4Yaw/edit?usp=sharing).
 
 
+## References
 
   * [Jumble Journal](https://jumblejournal.org/)
 
@@ -50,6 +58,4 @@ Some examples goal oriented are bullet journaling, Benjamin Franklins Daily Virt
   * [Ray Dalio Principle Journal](https://www.amazon.com/Principles-Your-Guided-Journal-Create/dp/1668010194)
 
 
-
-
-Originally published on \[Substack\]\(https://tonyoreglia.substack.com/p/how-to-journal\)
+Originally published on [Substack](https://tonyoreglia.substack.com/p/how-to-journal)

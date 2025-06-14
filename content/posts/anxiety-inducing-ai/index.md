@@ -1,6 +1,6 @@
 ---
 title: "Anxiety Inducing AI"
-date: "2025-06-13"
+date: "2023-03-30"
 draft: false
 original_url: https://tonyoreglia.substack.com/p/anxiety-inducing-ai
 tags:

@@ -1,14 +1,18 @@
-+++
-date = '2025-06-11T18:02:08+01:00'
-draft = false
-title = 'Prelude to the Italian Renaissance'
-+++
+---
+date: '2023-06-12T18:02:08+01:00'
+draft: false
+title: 'Prelude to the Italian Renaissance'
+tags:
+- history
+---
 
 This article briefly covers the period, people, and ideas that led up to the Italian Renaissance. In Florence, a hot spot of commercial activity and feuding families — the Renaissance sprang to life under the patronage of the ruling Medici family.
 
 ![gioto|small](https://tiddlywiki-images-337530763245.s3.amazonaws.com/ren-1.webp)
 
 # The Renaissance is still felt today
+
+![](beyonce.webp)
 
 From the Renaissance to modern times, we've seen a general decline in religious influence and an increase in individualistic lifestyles.
 
