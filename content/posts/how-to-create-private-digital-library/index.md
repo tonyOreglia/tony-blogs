@@ -7,6 +7,7 @@ tags:
 - reading
 - ebooks
 - self hosting
+- medium article
 ---
 
 ![](library.webp)

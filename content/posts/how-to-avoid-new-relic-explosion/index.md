@@ -6,6 +6,7 @@ tags:
 - new relic
 - observability
 - software engineering
+- medium article
 ---
 
 
