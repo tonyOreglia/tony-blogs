@@ -14,8 +14,6 @@ series:
 
 ![](https://tiddlywiki-images-337530763245.s3.amazonaws.com/Ludwig-Zagler.webp)
 
-~Ludwig\ Zagler\ with\ Daja\ Chess\ Engine,\ 1976\ [[1]](https://www.chessprogramming.org/Daja#cite_note-1)~
-
 **How does a computer think? It must know two things: what is possible and what is optimal.**
 
 A chess move generation function calculates what is possible from a given position. An evaluation function determines what is optimal. **Move generation is the marriage of these two capabilities and the focus of this article**.
