@@ -6,7 +6,6 @@ series:
 - Writing an X86–64 Assembly Language Program
 tags:
 - software engineering
-- guide
 - assembly language
 - docker
 - guides and tutorials
@@ -15,7 +14,7 @@ tags:
 
 ![](docker.webp)
 
-This guide is part two of a [series](https://tonycodes.com/blog/series/writing-an-x8664-assembly-language-program/).
+This guide is part two of the series, [X86–64 Assembly Language Program](https://tonycodes.com/blog/series/writing-an-x8664-assembly-language-program/).
 
 --- 
 

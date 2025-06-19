@@ -4,7 +4,6 @@ date: "2021-09-12"
 draft: false
 tags:
 - software engineering
-- guide
 - assembly language
 - docker
 - guides and tutorials
@@ -15,13 +14,7 @@ series:
 
 ![](easy-assembly.webp)
 
-### This guide is part one of a series
-- Part two: Getting Started Writing Assembly Language
-- Part three: Printing Command Line Arguments
-- Part four: Sending Function Arguments and Receiving a Return Value
-- Part five: Conditionals, Jumping, and Looping
-- Part six: How to Determine String Length
-- Part seven: Quick Reference
+This guide is part one of the series, [X86–64 Assembly Language Program](https://tonycodes.com/blog/series/writing-an-x8664-assembly-language-program/).
 
 ---
 
