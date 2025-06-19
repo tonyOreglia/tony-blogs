@@ -2,3 +2,7 @@ baseURL = 'https://tonycodes.com/blog'
 languageCode = 'en-us'
 title = 'Tony Blogs'
 theme = 'PaperMod'
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  series = "series"
