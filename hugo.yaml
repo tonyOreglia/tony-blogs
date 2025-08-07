@@ -1,0 +1,41 @@
+baseURL: "https://tonycodes.com/blog"
+languageCode: "en-us"
+title: "Tony Blogs"
+theme: "PaperMod"
+taxonomies:
+  tag: "tags"
+  category: "categories"
+  series: "series"
+params:
+  assets:
+    favicon: "assets/favicon.ico"
+  homeInfoParams:
+    Title: Hi there 👋
+    Content: Welcome to my blog
+  socialIcons:
+    - name: "X"
+      url: "https://x.com/tony_oreglia"
+    - name: "Github"
+      url: "https://github.com/tonyOreglia"
+    - name: "Linkedin"
+      url: "https://www.linkedin.com/in/tony-oreglia/"
+    - name: "Digital Garden"
+      url: "https://tonycodes.com/"
+  ShowShareButtons: true
+  ShowReadingTime: true
+  ShowToc: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+menu:
+  main:
+    - name: Tags
+      url: /tags/
+      weight: 10
+    - name: Series
+      url: /series/
+      weight: 20
