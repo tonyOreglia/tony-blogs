@@ -1,6 +1,6 @@
 #!/bin/sh
 
-SERVER=dig-ocean-vps
+SERVER=thinkstation-home
 DIR=/var/www/html/blog/
 
 hugo && rsync -avz --delete public/ ${SERVER}:${DIR}
