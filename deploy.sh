@@ -1,6 +1,6 @@
 #!/bin/sh
 
-SERVER=thinkstation-home
+SERVER=hetzner-server
 DIR=/var/www/html/blog/
 
 hugo && rsync -avz --delete public/ ${SERVER}:${DIR}
